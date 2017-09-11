@@ -14,10 +14,12 @@ Questoes a serem trabalhadas:
 5.	Para que outra vez um quarto esteja disponível para o aluguel, é necessário o intervalo de um dia entre o check-out de um cliente e o check-in de outro, porem foi necessário que alguns dos quartos estivessem disponíveis no mesmo dia dos checkouts em determinadas épocas, logo após a limpeza (realizada imediatamente). O proprietário precisa desses registros para saber em qual período a demanda pelo mesmo tipo de quarto foi maior. 
 
 6.	O proprietário pretende criar um sistema de fidelização, que funcionará da seguinte forma:
-Quando o hospede fizer sua hospedagem, terá que verificar se o mesmo ja esteve hospedado alguma vez no hotel, sendo assim o mesmo na hora do check-in terá direito a um serviço grátis, onde ele poderá escolher dentre as seguintes opções:
-Opção 1: wifi;
-Opção 2: frigobar;
-Opção 3: academia;    
+Quando o hospede fizer sua hospedagem, terá que verificar se o mesmo ja esteve hospedado alguma vez no hotel, sendo assim o mesmo na hora do check-in terá direito a um serviço grátis, onde ele poderá escolher dentre as seguintes opções: 
+
+* Opção 1: wifi;
+* Opção 2: frigobar;
+* Opção 3: academia;    
+
 
 7.	O gerente tem como objetivo implantar no hotel alguns serviços diferentes para as famílias que trouxeram crianças nos meses de setembro e outubro, sendo o primeiro um desconto de 5 % por criança no valor total dos serviços pedidos.
 
