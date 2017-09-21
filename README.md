@@ -9,7 +9,7 @@ Questoes a serem trabalhadas:
 
 3.  O verão está se aproximando! E nessa estação do ano os hospedes optam por quarto com ar condicionado; mas antes de se comprar o equipamento o senhorio precisa saber quantos quartos não possuem ar condicionado.
 
-4.	Os sócios do hotel pensam em expandir o negócio, entretanto precisam saber a média do movimento mensal de hospedes.  Para poder definir a extensão e a quantidade de andar do novo Hotel.
+4.	Os sócios do hotel pensam em expandir o negócio, entretanto precisam saber o movimento mensal de hospedes.  Para poder definir a extensão e a quantidade de andar do novo Hotel.
 
 5.	Para que outra vez um quarto esteja disponível para o aluguel, é necessário o intervalo de um dia entre o check-out de um cliente e o check-in de outro, porem foi necessário que alguns dos quartos estivessem disponíveis no mesmo dia dos checkouts em determinadas épocas, logo após a limpeza (realizada imediatamente). O proprietário precisa desses registros para saber em qual período a demanda pelo mesmo tipo de quarto foi maior. 
 
