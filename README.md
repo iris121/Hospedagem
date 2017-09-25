@@ -11,7 +11,7 @@ Questoes a serem trabalhadas:
 
 4.	Os sócios do hotel pensam em expandir o negócio, entretanto precisam saber o movimento mensal de hospedes.  Para poder definir a extensão e a quantidade de andar do novo Hotel.
 
-5.	Para que outra vez um quarto esteja disponível para o aluguel, é necessário o intervalo de um dia entre o check-out de um cliente e o check-in de outro, porem foi necessário que alguns dos quartos estivessem disponíveis no mesmo dia dos checkouts em determinadas épocas, logo após a limpeza (realizada imediatamente). O proprietário precisa desses registros para saber em qual período a demanda pelo mesmo tipo de quarto foi maior. 
+5.Conte a quantidade que o mesmo quarto que tiveram check-in e check-out no mes de agosto de 2016. 
 
 6.	O proprietário pretende criar um sistema de fidelização, que funcionará da seguinte forma:
 Quando o hospede fizer sua hospedagem, terá que verificar se o mesmo ja esteve hospedado alguma vez no hotel, sendo assim o mesmo na hora do check-in terá direito a um serviço grátis, onde ele poderá escolher dentre as seguintes opções: 
