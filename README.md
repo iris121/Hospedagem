@@ -21,7 +21,7 @@ Quando o hospede fizer sua hospedagem, terá que verificar se o mesmo ja esteve 
 * Opção 3: academia;    
 
 
-7.	O gerente tem como objetivo implantar no hotel alguns serviços diferentes para as famílias que trouxeram crianças nos meses de setembro e outubro, sendo o primeiro um desconto de 5 % por criança no valor total dos serviços pedidos.
+7.	O gerente tem como objetivo implantar no hotel alguns serviços diferentes para as famílias que trouxeram crianças nos meses de setembro e outubro, sendo um desconto de 5 % no valor total dos serviços pedidos.
 
 8.	O gerente de negócios do hotel tem como objetivo consultar de onde vem a maior demanda de pessoas na procura de se instalar no hotel, sendo assim quer observar quais são os estados (de forma decrescente) que tem mais procura.
 
